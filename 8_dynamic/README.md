@@ -27,7 +27,7 @@
 * 각 부분 문제를 계산할 때 걸리는 시간은 반복문이 없으니 $O(1)
 이고, 그러면 위 식에 따라 $bino2(n, r)$을 계산하는 데 걸리는 시간 복잡도는 $O(n^2) \times O(1) = O(n^2)$이 된다.
 
-[최적화 문제 동적 계획법 레시피][2]
+<A href=https://github.com/MintChocoPizza/jongmanBook/tree/master/8_dynamic/8_Traditional%20Optimization%20Problems/8_LIS#my_tag>최적화 문제 동적 계획법 레시피 </a>
 
 [1]: https://github.com/MintChocoPizza/jongmanBook/tree/master/8_dynamic/Memoization
 
