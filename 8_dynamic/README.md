@@ -31,4 +31,4 @@
 
 [1]: https://github.com/MintChocoPizza/jongmanBook/tree/master/8_dynamic/Memoization
 
-[2]: https://github.com/MintChocoPizza/jongmanBook/tree/master/8_dynamic/8_Traditional%20Optimization%20Problems/8_LIS#my-suffix
+[2]: https://github.com/MintChocoPizza/jongmanBook/tree/master/8_dynamic/8_Traditional%20Optimization%20Problems/8_LIS#my_tag

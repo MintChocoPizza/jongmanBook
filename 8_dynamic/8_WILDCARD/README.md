@@ -151,6 +151,6 @@ bool matchMemoized(int w, int s) {
 
 
 
-<div id="my-suffix"></div>
+<div id="my_tag"></div>
 접미사는 문자열의 맨 앞에서 0글자 이상의 문자를 지운 부분 문자열을 의미한다. 예를 들어 man은 spiderman의 접미사이지만 mana는 아니다.
 
