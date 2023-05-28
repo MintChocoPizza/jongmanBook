@@ -29,6 +29,8 @@
 
 <A href=https://github.com/MintChocoPizza/jongmanBook/tree/master/8_dynamic/8_Traditional%20Optimization%20Problems/8_LIS#my_tag>최적화 문제 동적 계획법 레시피 </a>
 
+<A href=https://github.com/MintChocoPizza/jongmanBook/tree/master/8_dynamic/Number%20of%20Cases%20and%20Probabilities>경우의 수와 확률</a>
+
 [1]: https://github.com/MintChocoPizza/jongmanBook/tree/master/8_dynamic/Memoization
 
 [2]: https://github.com/MintChocoPizza/jongmanBook/tree/master/8_dynamic/8_Traditional%20Optimization%20Problems/8_LIS#my_tag
